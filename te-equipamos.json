@@ -1,0 +1,28 @@
+{
+  "brand": "Te Equipamos",
+  "items": [
+    {
+      "active": true,
+      "type": "review",
+      "sections": [
+        "Reviews",
+        "Ventas"
+      ],
+      "title": "El accesorio que muchos olvidan hasta que llevan horas caminando bajo el sol",
+      "summary": "Forclaz MT100 con protección UPF50+, ala de 7 cm, ventilación y bajo peso para trekking con buen tiempo.",
+      "details": "Review y ficha de producto propia de Te Equipamos con acceso a consulta.",
+      "image": "https://contents.mediadecathlon.com/p2439774/k$61ef4aa1e100846e29c0ddb91ee1a5f9/picture.jpg?f=1600x0&format=auto",
+      "time": "Review · Trekking",
+      "score": 91,
+      "featured": false,
+      "direct": true,
+      "tags": [
+        "trekking",
+        "sol",
+        "protección UV",
+        "forclaz"
+      ],
+      "url": "https://jorgesport.github.io/te-equipamos-forclaz-mt100-sombrero/"
+    }
+  ]
+}
